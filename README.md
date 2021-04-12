@@ -65,7 +65,7 @@ Created barcharts, histograms and scatter plots to answer various questions
 
 - Packages: pandas, numpy, matplotlib
 
-- Detailed Code (Github Version) :
+- Detailed Code (Github Version) : https://github.com/shrinidhi02/Revenue-Analysis--The-Movie-Database/blob/main/Revenue%20Analysis_The%20Movie%20Database.ipynb
 
 **Main Findings:**
 
