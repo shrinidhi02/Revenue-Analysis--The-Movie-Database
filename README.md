@@ -7,29 +7,29 @@ This data set contains information about 10,000 movies collected from The Movie 
 
 **Explanation of the columns:**
 
-id: unique id for each movie 
-imdb_id: unique id given by imdb for each movie 
-popularity: Popularity of the movie 
-budget: Movie budget in dollars 
-revenue: Movie revenue in dollars 
-original_title: Movie title 
-cast: Movie cast 
-homepage: website of the movie 
-director: Director/s of the movie 
-tagline: Tagline 
-keywords: Keyowords of the movie 
-overview: Movie overview 
-runtime: Runtime of the movie 
-genres: Movie genre 
-production_companies: Production company 
-release_date: Release_date of the movie 
-vote_count: Vote counts 
-vote_average: Average vote counts 
-release_year: Release year of the movie 
-budget_adj: Inflation adjusted budget of the movie 
-revenue_adj: Inflation adjusted revenue of the movie 
-budget_adj_mil: Inflation adjusted budget of the movie (in millions) (added later for analysis) 
-rev_adj_mil: Inflation adjusted revenue of the movie (in millions) (added later for analysis)
+- id: unique id for each movie 
+- imdb_id: unique id given by imdb for each movie 
+- popularity: Popularity of the movie 
+- budget: Movie budget in dollars 
+- revenue: Movie revenue in dollars 
+- original_title: Movie title 
+- cast: Movie cast 
+- homepage: website of the movie 
+- director: Director/s of the movie 
+- tagline: Tagline 
+- keywords: Keyowords of the movie 
+- overview: Movie overview 
+- runtime: Runtime of the movie 
+- genres: Movie genre 
+- production_companies: Production company 
+- release_date: Release_date of the movie 
+- vote_count: Vote counts 
+- vote_average: Average vote counts 
+- release_year: Release year of the movie 
+- budget_adj: Inflation adjusted budget of the movie 
+- revenue_adj: Inflation adjusted revenue of the movie 
+- budget_adj_mil: Inflation adjusted budget of the movie (in millions) (added later for analysis) 
+- rev_adj_mil: Inflation adjusted revenue of the movie (in millions) (added later for analysis)
 
 **Research questions:**
 - What features are associated with higher revenue?
