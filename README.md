@@ -2,6 +2,7 @@
 REVENUE ANALYSIS: THE MOVIE DATABASE
 
 **Introduction:**
+
 This data set contains information about 10,000 movies collected from The Movie Database (TMDb), including user ratings and revenue. It has 10,866 rows and 21 columns. The source of this data set is Kaggle.
 
 **Explanation of the columns:**
